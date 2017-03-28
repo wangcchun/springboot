@@ -62,7 +62,6 @@
                         </goals>
                         <configuration>
                             <classifier></classifier>
-                            <attach>false</attach>
                         </configuration>
                     </execution>
                 </executions>
