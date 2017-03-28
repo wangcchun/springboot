@@ -61,7 +61,8 @@
                             <goal>repackage</goal>
                         </goals>
                         <configuration>
-                            <classifier>.</classifier>
+                            <classifier></classifier>
+                            <attach>false</attach>
                         </configuration>
                     </execution>
                 </executions>
